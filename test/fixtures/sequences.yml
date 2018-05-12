@@ -1,0 +1,13 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  id: 1
+  order: 1
+  stage: one
+  PostulantProcess: one
+
+two:
+  id: 1
+  order: 1
+  stage: two
+  PostulantProcess: two
